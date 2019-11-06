@@ -1,0 +1,30 @@
+{
+  "naming_series": "JV-",
+  "cheque_date": "2019-10-30",
+  "voucher_type": "Bank Entry",
+  "doctype": "Journal Entry",
+  "accounts": [
+    {
+      "doctype": "Journal Entry Account",
+      "cost_center": "Oficina - T",
+      "debit": 14506367.0,
+      "against_account": "1.1.1.2 Banco BCI - T",
+      "debit_in_account_currency": 14506367.0,
+      "account": "1.1.6.3 Anticipo Mano de obra - T"
+    },
+    {
+      "doctype": "Journal Entry Account",
+      "cost_center": "Oficina - T",
+      "against_account": "1.1.6.3 Anticipo Mano de obra - T",
+      "account_type": "Bank",
+      "account": "1.1.1.2 Banco BCI - T",
+      "credit": 14506367.0,
+      "credit_in_account_currency": 14506367.0
+    }
+  ],
+  "title": "1.1.6.3 Anticipo Mano de obra - T",
+  "company": "Constructora Tecton SpA",
+  "total_credit": 14506367.0,
+  "total_debit": 14506367.0,
+  "posting_date": "2019-10-30"
+}
