@@ -1,7 +1,6 @@
 from frappeclient import FrappeClient
 import json
 
-
 try:
     client = FrappeClient("https://erp.tecton.cl", "lizquierdo@tecton.cl", "tecton")
 except:
