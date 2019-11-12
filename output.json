@@ -1,0 +1,84 @@
+{
+  "cheque_date": "2019-10-25",
+  "posting_date": "2019-10-25",
+  "title": "Oficina - T",
+  "accounts": [
+    {
+      "doctype": "Journal Entry Account",
+      "cost_center": "Oficina - T",
+      "debit": 0.0,
+      "debit_in_account_currency": 0.0,
+      "account": "1.1.6.3 Anticipo Mano de obra - T",
+      "credit": 18631007.0,
+      "credit_in_account_currency": 18631007.0
+    },
+    {
+      "doctype": "Journal Entry Account",
+      "cost_center": "Oficina - T",
+      "debit": 0.0,
+      "debit_in_account_currency": 0.0,
+      "account": "2.1.4.3 Impuesto unico por pagar - T",
+      "credit": 1433127.0,
+      "credit_in_account_currency": 1433127.0
+    },
+    {
+      "doctype": "Journal Entry Account",
+      "cost_center": "Oficina - T",
+      "debit": 0.0,
+      "debit_in_account_currency": 0.0,
+      "account": "2.1.5.1 AFP por pagar - T",
+      "credit": 1899838.0,
+      "credit_in_account_currency": 1899838.0
+    },
+    {
+      "doctype": "Journal Entry Account",
+      "cost_center": "Oficina - T",
+      "debit": 0.0,
+      "debit_in_account_currency": 0.0,
+      "account": "2.1.5.2 Salud por pagar - T",
+      "credit": 1099153.0,
+      "credit_in_account_currency": 1099153.0
+    },
+    {
+      "doctype": "Journal Entry Account",
+      "cost_center": "Oficina - T",
+      "debit": 0.0,
+      "debit_in_account_currency": 0.0,
+      "account": "2.1.5.3 Mutual por pagar - T",
+      "credit": 110188.0,
+      "credit_in_account_currency": 110188.0
+    },
+    {
+      "doctype": "Journal Entry Account",
+      "cost_center": "Oficina - T",
+      "debit": 15174.0,
+      "debit_in_account_currency": 15174.0,
+      "account": "2.1.5.6 C.C.A.F. Los Andes - T",
+      "credit": 0.0,
+      "credit_in_account_currency": 0.0
+    },
+    {
+      "doctype": "Journal Entry Account",
+      "cost_center": "Oficina - T",
+      "debit": 0.0,
+      "debit_in_account_currency": 0.0,
+      "account": "2.1.5.6 C.C.A.F. Los Andes - T",
+      "credit": 94447.0,
+      "credit_in_account_currency": 94447.0
+    },
+    {
+      "doctype": "Journal Entry Account",
+      "cost_center": "Oficina - T",
+      "debit": 23565866.0,
+      "debit_in_account_currency": 23565866.0,
+      "account": "5.1.4.1 Remuneraciones Obra - T",
+      "credit": 0.0,
+      "credit_in_account_currency": 0.0
+    }
+  ],
+  "total_credit": 23267760.0,
+  "total_debit": 23581040.0,
+  "company": "Constructora Tecton SpA",
+  "naming_series": "JV-",
+  "doctype": "Journal Entry"
+}
